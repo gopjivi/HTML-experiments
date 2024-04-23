@@ -1,0 +1,21 @@
+#bigdeal
+{
+    font-weight: bold;
+
+}
+h1
+{
+    text-align: center;
+}
+.sideheader
+{
+    background-color:tan;
+}
+.shadowtxt
+{
+    text-shadow: 2px 2px #FF0000;
+}
+body
+{
+background-color: rgb(229, 226, 226);
+}
